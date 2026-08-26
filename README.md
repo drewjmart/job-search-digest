@@ -10,6 +10,11 @@ logging into anything.
 Scheduler. Built hands-on with Claude Code, from requirements through
 implementation and testing.
 
+**What this is, and isn't.** This surfaces and ranks postings that match
+my own criteria; it doesn't apply to anything. Every posting still goes
+through me before I ever click Apply, and the tool's job ends at a digest
+email, not a submission.
+
 ## Four sources, four different data-access problems
 
 Rather than scrape rendered HTML text everywhere, each source module
