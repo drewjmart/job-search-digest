@@ -1,0 +1,8 @@
+.env
+profile.py
+__pycache__/
+*.pyc
+.venv/
+data/
+*.sqlite3
+*.log
