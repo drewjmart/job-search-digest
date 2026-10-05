@@ -158,4 +158,7 @@ Caught before it ever broke a real scheduled run, not after.
 4. Run manually: `python main.py --dry-run` to see scoring output without
    touching the database or sending mail.
 5. Schedule it (Windows Task Scheduler via `scripts/run_digest.ps1`, or
-   cron/launchd on macOS/Linux) for a daily unattended run.
+   cron/launchd on macOS/Linux) for a weekly unattended run — I run it
+   Fridays at 7:00 AM. Any cadence works, but note the GeekWire feed only
+   covers the last day or two of articles, so less-frequent runs will miss
+   most of its funding/hiring signals.

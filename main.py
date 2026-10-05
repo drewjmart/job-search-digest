@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Daily small-company job search digest.
+Small-company job search digest (scheduled weekly).
 
 Usage:
     python main.py                 # run all sources, save to DB, email digest

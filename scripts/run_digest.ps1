@@ -1,4 +1,4 @@
-# Wrapper invoked by Windows Task Scheduler for the daily 7am run.
+# Wrapper invoked by Windows Task Scheduler for the scheduled run (weekly, Fridays 7am).
 # Mirrors what the old macOS launchd plist did: run the venv's Python
 # against main.py, appending stdout/stderr to data/cron.log.
 
